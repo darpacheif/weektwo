@@ -1,0 +1,15 @@
+body{
+    /* background-color: grey;  */
+ }
+ 
+ /* Center div using CSS */
+ /* Identify tag to apply rule */
+ div{
+    /* To center a div, we have to change its dimensions i.e. width and height. */
+    width: 640px;
+    height: 700px;
+    /* Change the margin properties to zero and auto. */
+    margin: 0 auto; 
+    border: 0px solid red;
+ }
+ 
